@@ -1,0 +1,55 @@
+{
+    "name": "Streamlio",
+    "description": "Real-time solution for messaging, processing, and storage of streaming data.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28190-streaml-io.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/streamlio\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Streamlio",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28190-streaml-io.jpg",
+            "humanURL": "https:\/\/streaml.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/streamlio-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/getstream-io"
+        },
+        {
+            "type": "Email",
+            "url": "info@streaml.io"
+        },
+        {
+            "type": "Email",
+            "url": "community@streaml.io"
+        },
+        {
+            "type": "Email",
+            "url": "media@streaml.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/streamlio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/streaml.io"
+        }
+    ]
+}
